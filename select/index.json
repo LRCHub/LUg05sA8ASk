@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "おやすみスイミン",
+  "base_artist": "夢喰NEON",
+  "createdAt": "2026-02-21T07:42:27.064075Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "おやすみスイミン",
+      "artist": "夢喰NEON",
+      "has_synced": false,
+      "path": "select/pl_01_おやすみスイミン_夢喰NEON.txt"
+    }
+  ]
+}
